@@ -39,3 +39,11 @@ margin-top: 50px;
 Body {
  background-color: purple
 }
+
+.resultSection{
+  height: 300px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+}
